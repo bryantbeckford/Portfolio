@@ -2,4 +2,4 @@
 Columbia Projects 
 
 
-All of my projects 
+All of my class projects 
